@@ -1,0 +1,20 @@
+{
+  "name": "nodejsbakend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01callback.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcoMejiaL/nodejsBakend.git"
+  },
+  "keywords": [],
+  "author": "Marco Mejia Lopez <marcomejia159010@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarcoMejiaL/nodejsBakend/issues"
+  },
+  "homepage": "https://github.com/MarcoMejiaL/nodejsBakend#readme"
+}
